@@ -1,4 +1,4 @@
-# Simple-DES-System
+# Simple-DES (DATA ENCRYPTION SYSTEM)
 
 This is my second project in Java.
 <br>
